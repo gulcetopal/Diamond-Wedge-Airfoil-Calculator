@@ -1,4 +1,4 @@
-# Diamond-Wedge-Calculator
+# Diamond Wedge Airfoil Calculator
 Program to calculate and plot pressure coefficients, pressure values and drag/lift coefficients over a symmetric double wedge airfoils at different angle of attacks and freestream Mach numbers.
 
 Assumptions: Inviscid, steady, compressible two dimensional flow for a calorically perfect gas. Airfoil is symmetric with a constant wedge angle.
